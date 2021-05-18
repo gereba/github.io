@@ -9,7 +9,7 @@ title: PAK - Program Assembly Kit
 
  
 
-![](img/PAK-Echo system.png)
+![PAK Echosystem](img/PAK-Echo.png)
 
 2 PAK Language
 ==============
