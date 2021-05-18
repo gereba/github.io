@@ -22,22 +22,22 @@ title: PAK - Program Assembly Kit
 
 Fundamental Parts used to construct other Parts.
 
-- [Components](../2.1-language-elements)
-- [Simple Values](../2.1-language-elements)
-  - [Numeric Values](../2.1-language-elements)
-  - [Canonical Representation of Numbers](../2.1-language-elements)
-  - [Boolean Values](../2.1-language-elements)
-- [Compound Values](../2.1-language-elements)
+- [Components](2.1-language-elements)
+- [Simple Values](2.1-language-elements)
+  - [Numeric Values](2.1-language-elements)
+  - [Canonical Representation of Numbers](2.1-language-elements)
+  - [Boolean Values](2.1-language-elements)
+- [Compound Values](2.1-language-elements)
 
 2.2 Kernel Components
 ---------------------
 
 Parts and Kits assembler tools.
 
-- 2.2.1 [Arithmetic Components](../2.2-kernel-components)
-- 2.2.2 [String Components](../2.2.2-string-components)
-- 2.2.3 [Compound Components](../2.2.3-compound-components)
-- 2.2.4 [User Interface Components](../2.2.4-user-interface-components)
+- 2.2.1 [Arithmetic Components](2.2-kernel-components)
+- 2.2.2 [String Components](2.2.2-String-Components.md)
+- 2.2.3 [Compound Components](2.2.3-Compound-Components.md)
+- 2.2.4 [User Interface Components](2.2.4-User-Interface-Components.md)
 
 
 
