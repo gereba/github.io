@@ -1,5 +1,7 @@
 ## Welcome to PAK Documentation
 
+Check the [PAK Guide](pak/0-PAK%20index.md) to learn how to develop and deploy programs.
+
 You can use the [editor on GitHub](https://github.com/gereba/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
