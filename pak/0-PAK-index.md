@@ -14,13 +14,16 @@ title: PAK - Program Assembly Kit
 2 PAK Language
 ==============
 
-
-2.1 [Language Elements](2.1-Language-Elements.md)
----------------------
-
 Fundamental Parts used to construct other Parts.
 
- 
+## 2.1 [Language Elements](2.1-Language-Elements.md)
+
+### 2.1.1 [Simple Values](2.1.1-Simple-Values.md)
+
+### 2.1.2 [Compound Values](2.1.2-Compound-Values.md)
+
+ 
+  
 
 2.2 [Composition](2.2-Kernel-Components.md)
 ---------------
